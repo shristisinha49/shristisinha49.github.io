@@ -2,19 +2,19 @@
 "success":true,
 "data":[
 	{
-        "book_id":"101"
+        "book_id":"101",
     	"name":"first",
         "author": "abc",
-        "price": "1023"
-	 "rating":"4.2"
+        "price": "1023",
+	 "rating":"4.2",
     	"image":"url",
 	},
          {
-        "book_id":"102"
+        "book_id":"102",
     	"name":"second",
         "author": "xyz",
-        "price": "1000"
-	 "rating":"4.2"
+        "price": "1000",
+	 "rating":"4.2",
     	"image":"url",
 	}
 ]
