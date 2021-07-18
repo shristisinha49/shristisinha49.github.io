@@ -7,34 +7,34 @@
     	"name":"The Alchemist",
         "author": "Paulo Coelho",
         "price": "1023",
-	 "rating":"4.2",
+	"rating":"4.2",
     	"image":"https://i.pinimg.com/236x/1f/a3/47/1fa347aac4a748da4c868511abd4ead3.jpg"
 	},
          {
-         "id":2,
-         "book_id: "102",
+        "id":2,
+        "book_id: "102",
     	"name":"Mindset",
         "author": "Carol Dweck",
         "price": "1000",
-	 "rating":"4.2",
+	"rating":"4.2",
     	"image":"https://i.pinimg.com/236x/97/e8/5d/97e85d4a92f4fb8a5c08dd5bdc8e23a1.jpg"
 	},
 	 {
-          "id":3,
+         "id":3,
         "book_id: "103",
     	"name":"Rich Dad, Poor Dad",
         "author": "Robert Kiyosaki",
         "price": "1000",
-	 "rating":"4.2",
+	"rating":"4.2",
     	"image":"https://i.pinimg.com/236x/42/43/6e/42436ec8e0e77d16711d89c62a67dbbe.jpg"
 	},
 	{
 	"id":4,	
-       "book_id: "104",
+        "book_id: "104",
     	"name":"The Power of Now",
         "author": "Eckhart Tolle",
         "price": "1023",
-	 "rating":"4.2",
+	"rating":"4.2",
     	"image":"https://i.pinimg.com/236x/e6/85/62/e68562bd294d714ff3c100cc1922b75a.jpg"
 	},
 	{
@@ -43,12 +43,12 @@
     	"name":"pride and prejudice ",
         "author": "abc",
         "price": "1023",
-	 "rating":"4.2",
+	"rating":"4.2",
     	"image":"https://i.pinimg.com/236x/6f/cc/85/6fcc855ce5b930a7f1be99a0331d8ee7.jpg"
 	},
 	{
 	"id":6,	
-         "boo_id: "106",
+        "book_id: "106",
     	"name":"Charlotte Brontë",
         "author": "abc",
         "price": "1023",
@@ -61,7 +61,7 @@
     	"name":"A Simple Favour",
         "author": "Darcey Bell",
         "price": "1023",
-	 "rating":"4.2",
+	"rating":"4.2",
     	"image":"https://i.pinimg.com/236x/76/ff/8a/76ff8a83a5329fce00b9e7e074d8654d.jpg"
 	},
 	{
@@ -70,26 +70,26 @@
     	"name":"Baby Teeth",
         "author": "Zoje Stage",
         "price": "1023",
-	 "rating":"4.2",
+	"rating":"4.2",
     	"image":"https://i.pinimg.com/236x/47/86/88/478688bad2981b420ccc3439d4a02951.jpg"
 	},
 	{
-	"id":9,
+	 "id":9,
          "book_id: "109",
-    	"name":"Big Little Lies",
-        "author": "Liane Moriarty",
-        "price": "1023",
+    	 "name":"Big Little Lies",
+         "author": "Liane Moriarty",
+         "price": "1023",
 	 "rating":"4.2",
     	"image":"https://i.pinimg.com/236x/b1/e5/a4/b1e5a47c0491c91b1df9d5fa2ed224d1.jpg"
 	},
 	{
 	"id":10,
          "book_id: "110",
-    	"name":"I Am Malala",
-        "author": "Christina Lamb",
-        "price": "1023",
+    	 "name":"I Am Malala",
+         "author": "Christina Lamb",
+         "price": "1023",
 	 "rating":"4.2",
-    	"image":"https://i.pinimg.com/236x/7b/f0/20/7bf020fbd272dbf8308f6b8d8d5c0a5c.jpg"
+    	 "image":"https://i.pinimg.com/236x/7b/f0/20/7bf020fbd272dbf8308f6b8d8d5c0a5c.jpg"
 	}
 ]
 }
