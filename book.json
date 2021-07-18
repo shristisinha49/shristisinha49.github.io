@@ -12,7 +12,7 @@
 	},
          {
          "id":2,
-         "bookId: "102",
+         "book_id: "102",
     	"name":"Mindset",
         "author": "Carol Dweck",
         "price": "1000",
@@ -21,7 +21,7 @@
 	},
 	 {
           "id":3,
-        "bookId: "103",
+        "book_id: "103",
     	"name":"Rich Dad, Poor Dad",
         "author": "Robert Kiyosaki",
         "price": "1000",
@@ -30,7 +30,7 @@
 	},
 	{
 	"id":4,	
-       "bookId: "104",
+       "book_id: "104",
     	"name":"The Power of Now",
         "author": "Eckhart Tolle",
         "price": "1023",
@@ -39,7 +39,7 @@
 	},
 	{
 	"id":5,	
-        "bookId: "105",
+        "book_id: "105",
     	"name":"pride and prejudice ",
         "author": "abc",
         "price": "1023",
@@ -48,7 +48,7 @@
 	},
 	{
 	"id":6,	
-         "bookId: "106",
+         "boo_id: "106",
     	"name":"Charlotte Brontë",
         "author": "abc",
         "price": "1023",
@@ -57,7 +57,7 @@
 	},
 	{
 	"id":7,
-        "bookId: "107",
+        "book_id: "107",
     	"name":"A Simple Favour",
         "author": "Darcey Bell",
         "price": "1023",
@@ -66,7 +66,7 @@
 	},
 	{
 	"id":8,	
-        "bookId: "108",
+        "book_id: "108",
     	"name":"Baby Teeth",
         "author": "Zoje Stage",
         "price": "1023",
@@ -75,7 +75,7 @@
 	},
 	{
 	"id":9,
-         "bookId: "109",
+         "book_id: "109",
     	"name":"Big Little Lies",
         "author": "Liane Moriarty",
         "price": "1023",
@@ -84,7 +84,7 @@
 	},
 	{
 	"id":10,
-         "bookId: "110",
+         "book_id: "110",
     	"name":"I Am Malala",
         "author": "Christina Lamb",
         "price": "1023",
